@@ -79,7 +79,7 @@ export const projectsData = [
       'Fun facts is an app made with the combination of different APIs. It is fun and cool as it takes the input number and provides some fact related to that number, you can also get location of IIST, you can increase your knowledge of pokemon and having a good laugh with chuck norris jokes is like cherry on the cake.',
     info2:
       'It includes numberfact API, pokeAPI, chuckNorris API and IIST API, made with react and APIs and with some love.',
-    url: 'https://sahilramteke4.github.io/Funfacts/',
+    url: 'https://sahilramteke4.github.io/FunFacts/',
     repo: 'https://github.com/sahilramteke4/FunFacts', // if no repo, the button will not show up
   },
 ];
